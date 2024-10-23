@@ -3,4 +3,7 @@ public class HelloWorld{
 	System.out.println("HelloWorld");
 	System.out.println("HelloWorld");
 	System.out.println("HelloWorld");
+	int a,b,c;
+	double x,y,z;
+  }
 }
